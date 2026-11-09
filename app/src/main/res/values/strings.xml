@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car Challenge Starter</string>
+    <string name="ready_title">프로젝트 준비 완료</string>
+    <string name="ready_description">아이디어가 정해지면 이 화면부터 차량용 경험을 구현합니다.</string>
+</resources>
